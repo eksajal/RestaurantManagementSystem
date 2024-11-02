@@ -1,21 +1,22 @@
-# RestaurantManagementSystem
+# 🍽️ Laravel Restaurant Management System
 
-Welcome to the Laravel Restaurant Management System! This project is a robust and user-friendly solution for streamlining restaurant operations, built on the powerful Laravel framework. With a suite of essential tools and features, this system is designed to help restaurant owners, managers, and staff manage daily tasks effortlessly.
+Welcome to the **Laravel Restaurant Management System**! This project is a robust and user-friendly solution for streamlining restaurant operations, built on the powerful Laravel framework. With a suite of essential tools and features, this system is designed to help restaurant owners, managers, and staff manage daily tasks effortlessly.
 
+## 🚀 Key Features
 
-🚀 Key Features
-Menu Management: Create, update, and organize a menu with categories, prices, and customizable options.
-Order Tracking: Easily track dine-in, takeout, and delivery orders, with real-time updates on order status.
-Inventory Management: Maintain stock levels and receive alerts when ingredients are low.
-Reservation System: Efficiently handle reservations, with table availability and scheduling options.
-Billing & Invoicing: Generate detailed bills for customers and track payment statuses.
-Reports & Analytics: Gain insights on sales, popular menu items, and peak hours with comprehensive reporting tools.
-User Roles: Manage user roles for admins, managers, and staff, with custom permissions to secure system access.
+- **Menu Management**: Create, update, and organize a menu with categories, prices, and customizable options.
+- **Order Tracking**: Easily track dine-in, takeout, and delivery orders, with real-time updates on order status.
+- **Inventory Management**: Maintain stock levels and receive alerts when ingredients are low.
+- **Reservation System**: Efficiently handle reservations, with table availability and scheduling options.
+- **Billing & Invoicing**: Generate detailed bills for customers and track payment statuses.
+- **Reports & Analytics**: Gain insights on sales, popular menu items, and peak hours with comprehensive reporting tools.
+- **User Roles**: Manage user roles for admins, managers, and staff, with custom permissions to secure system access.
 
-🛠️ Built With
-Laravel - Backend framework for clean, maintainable code
-MySQL - Database to securely store and manage data
-Bootstrap - For a responsive and intuitive user interface!
+## 🛠️ Built With
+
+- **Laravel** - Backend framework for clean, maintainable code.
+- **MySQL** - Database to securely store and manage data.
+- **Bootstrap** - For a responsive and intuitive user interface.
 
 
 [Capture8](https://github.com/user-attachments/assets/d27203cd-17e0-41fb-b686-1640f9f0ba9f)
